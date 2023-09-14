@@ -1,0 +1,18 @@
+.my-color {
+}
+
+#my-color-id {
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.container > button {
+    margin: 1rem;
+    padding: 9px;
+    border-radius: 3px;
+    background-color: blueviolet;
+    color: white;
+}
